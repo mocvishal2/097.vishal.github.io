@@ -40,12 +40,14 @@
 	.side{
 		flex: 100%;
 		background-color: bisque;
+		text-align: center;
 		padding: 20px;
 	}
 	.side1{
 		flex: 70%;
 		background-color: white;
 		padding: 20%;
+		text-align: center;
 	}
 	.poto{
 		flex: 100%;
