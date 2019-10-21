@@ -43,12 +43,7 @@
 		text-align: center;
 		padding: 20px;
 	}
-	.side1{
-		flex: 70%;
-		background-color: white;
-		padding: 20%;
-		text-align: center;
-	}
+	
 	.poto{
 		flex: 100%;
 		background-color:white;
@@ -82,17 +77,6 @@
 		padding: 5px;
 		height: 100%;
 		background-position: center;
-		display: flex;
-		background-size: 100%;
-		overflow: auto;
-		background-repeat: no-repeat;
-	}
-	.fakeimg3{
-		background-image:url(gambar/img4.png);
-		width: 100%;
-		padding: 20px;
-		height: 100%;
-		background-position:  center;
 		display: flex;
 		background-size: 100%;
 		overflow: auto;
